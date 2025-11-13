@@ -1,19 +1,16 @@
-Hi, I’m @akkimiho, junior data analyst/data scientist from Ukraine.
-
-I'm doing my bachelor degree in Data science at TU/e university in the Netherlands,
-<ul>
-	<li>I’m currently learning SQL, PowerBI, Pytorch and improving my skills at Python</li>
-	<li>I am highly interested in researching data and searching for solutions to problems and answers to business questions.</li>
-	<li>Languages I know: English, Ukrainian, Polish, Dutch</li>
-	<li> Hobbies: language learning, dancing, drawing, reading</li>
-</ul>
-
-<br> I'm open to new opportunities.
-<br><b>Contact me:</b>
-  <ul>
-		<li>E-mail: alina.kondrat07@gmail.com</li>
-  	<li>Linkedin: https://www.linkedin.com/in/akondratenko/</li>
-		<li>Telegram: @al_kondrat</li>
-	</ul>
+# 💫 About Me:
+##Hey, I am Alina — Data Analyst/Data Scientist 🎨📊<br>**Data Scientist in progress | Data Analyst | Passion for meaningful tech**<br><br>As a person, I am a combination of incompatible things: science fan and artist.<br>I am highly curious person with high interest in science related things, <br>especially data-driven technologies and artificial intelligence. I have a lot of <br>experience in design, different types of art, it helps me to create a data vizualization that <br>not only beautiful and attract attention, but also highly useful and easy to understand <br>for non-tech people.<br>My goal is to build dashboards, models, and visual stories that can help people make better and meaninful decisions.<br><br>*💚FACT ABOUT OUTSIDE STUDY ACTIVITIES💚*<br>I am member of PR and Business department of student team GAIA, <br>where I work with students from different backgrounds on launching <br>project of AI-driven cleaner robot for beach cleaning. I am currently starting as Communication&Analytics specialist, I work on our social media pages and marketing, <br>creating designs and increase the visibility and awareness of society about our idea and progress. <br>I worked on recruitment tasks also, I have received an experience with searching and hiring the new students. <br><br>##General facts about me: <br><br>🧠 AI & Data Science student(final-year) with background in Computer science(Information systems)<br><br>⚙️ Skills: Python, SQL, Power BI, data visualization, ML basics, computer vision, Excel, Streamlit<br><br>🌿 Currently exploring: AI agents, AI for ecology (environmental robotics - student team GAIA project), exploring the ML and Deep learning models<br><br>💡 I enjoy turning ideas into real projects — from analytics dashboards to small apps<br><br><br>✏️ Outside tech: I enjoy dancing classes, drawing, writing Ukrainian poetry, and explore other creative tools/masteries, <br>and also I enjoy running, occasionally I participate in some versions of marathons.<br><br>🔎 I am searching mentoring and hands-on experience in data analytics/data science projects in fields like: medicine&healthcare, marketing, sales<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akondratenko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alina.kondrat07@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akkimiho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akkimiho&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkimiho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=akkimiho&icon=4&color=8)](https://visitcount.itsvg.in)
