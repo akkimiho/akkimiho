@@ -1,6 +1,6 @@
 Hi, I’m @akkimiho, junior data analyst/data scientist from Ukraine.
 
-I'm doing my barchelor degree in Data science at TU/e university in the Netherlands,
+I'm doing my bachelor degree in Data science at TU/e university in the Netherlands,
 <ul>
 	<li>I’m currently learning SQL, PowerBI, Pytorch and improving my skills at Python</li>
 	<li>I am highly interested in researching data and searching for solutions to problems and answers to business questions.</li>
